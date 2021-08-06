@@ -4,6 +4,7 @@
 | -------------                         |:-------------:|
 | `aws aurora`                          | [aws](aws/aws_aurora) <p/> [cluster](aws/aws_aurora/cluster) |
 | `aws_dynamodb`                        | [aws](aws/aws_dynamodb) <p/> [table](aws/aws_dynamodb/table) |
+| `aws_dynamodb_item`                   | [aws](aws/aws_dynamodb/table_item) |
 | `aws_ebs_volume`                      | [aws](aws/aws_ebs_volume) <p/>[simple](aws/aws_ebs_volume/simple) |
 | `aws_eks`                             | [aws, spot_and_fargate](aws/aws_eks/fargate/spot_and_fargate) |
 | `aws_iam`                             | [aws](aws/aws_iam/groups) |
